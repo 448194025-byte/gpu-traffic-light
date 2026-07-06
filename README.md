@@ -100,4 +100,3 @@ gpu-traffic-light/
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
-*（内容由AI生成，仅供参考）*
