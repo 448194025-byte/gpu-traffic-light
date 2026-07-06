@@ -12,7 +12,6 @@ The indicator sits on your desktop as a borderless, always-on-top
 widget with system tray integration. Lights blink to draw attention
 and the widget supports drag, edge-snap, and mouse-wheel scaling.
 
-Author : Marvis AI
 License: MIT
 Platform: Windows 10/11 (requires Python 3.8+)
 """
